@@ -1,16 +1,32 @@
-### Hi there 👋
+<h1 align="center">Hey there, I'm Shoham!👋</h1>
 
-<!--
-**ShohamD206/ShohamD206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Backend Developer</h3>
 
-Here are some ideas to get you started:
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>Languages & Skills:</h3>
+<p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=java,spring,maven,docker,mysql,postman,aws,postgresql,git,mongodb" />
+      <br>
+      <img src="https://skillicons.dev/icons?i=js,react,python,html,css" />
+      <br><br>
+    </a>
+</p>
+
+<h3>My Social:</h3>
+<p>
+    <a href="https://www.linkedin.com/in/shoham-dar-7b3a91229/">
+        <img src="https://skillicons.dev/icons?i=linkedin"/>
+    </a>
+
+    
+    <span>
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=replit"/>
+        </a>
+    </span>
+
+</p>
